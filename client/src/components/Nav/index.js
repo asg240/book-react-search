@@ -6,11 +6,11 @@ function Nav() {
     <div>
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <a className="navbar-brand" id="homeLink" href="/">
-        React Google Search
+        LegendDev's Book Search
       </a>
      <ul className="navbar-nav">
      <li className="nav-item">
-       <a className="nav-link navbar-brand" id="savedLink" href="/bookshelf">Books Saved</a>
+       <a className="nav-link navbar-brand" id="savedLink" href="/bookshelf">Saved Books</a>
      </li>
    </ul>
  </nav>
@@ -20,3 +20,4 @@ function Nav() {
 }
 
 export default Nav;
+
