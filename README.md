@@ -5,7 +5,7 @@ Try out the example: [LegendDev's Books](https://google-api-books-react.herokuap
 ## Check it out
 * `LegendDev's Books` is an app that uses helper/util functions and utilizes React lifecycle methods to query and display books based on user searches. It also uses Node, Express and MongoDB so that users can save books to review or purchase later.. 
 
-![img](/pictures/example.png)
+![img](/pictures/example.PNG)
 
 ## Try it out:
 * [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository "Help me Clone a Repository") the repository from the clone tab above
