@@ -1,13 +1,21 @@
-A React based application that users can search Book titles through the Google Books API.
-### Breakdown
-This app uses helper/util functions and utilizes React lifecycle methods to query and display books based on user searches. It also uses Node, Express and MongoDB so that users can save books to review or purchase later.
-### npm packages
+# LegendDev's Books
+Google Books API search engine built in [React](https://reactjs.org/ "React")!<br>
+Try out the example: [LegendDev's Books](https://google-api-books-react.herokuapp.com/ "LegendDevs Books")
 
-`mongoose`, `axios`, `react-router-dom`
+## Check it out
+* `LegendDev's Books` is an app that uses helper/util functions and utilizes React lifecycle methods to query and display books based on user searches. It also uses Node, Express and MongoDB so that users can save books to review or purchase later.. 
 
+![img](/pictures/example.png)
 
-### Languages and Tech Involved
+## Try it out:
+* [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository "Help me Clone a Repository") the repository from the clone tab above
+* Open a terminal and change directory to Desktop
+* Clone to Desktop
+* Change directory to the new folder
+* In terminal, type `yarn i` or `npm i` depending on what you are using
+* In terminal, type `yarn start` or `npm start` to run on localhost
 
+## Tech Used:
 * React
 * Express
 * Bootstrap
@@ -15,6 +23,6 @@ This app uses helper/util functions and utilizes React lifecycle methods to quer
 * Node.js
 * Heroku
 
+## npm packages
 
-
-
+`mongoose`, `axios`, `react-router-dom`
